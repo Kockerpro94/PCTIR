@@ -1,5 +1,5 @@
 # PCTIR
-Test your new pc now with PCTER
+Test your new pc now with PCTIR
 # 
 # this is for educational purposes only
 
